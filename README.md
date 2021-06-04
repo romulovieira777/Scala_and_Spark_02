@@ -1,4 +1,4 @@
-# Scala_and_Spark_02
+# Scala and Spark
 ### Curso Scala and Spark 02 - getting Started na Udemy
 #### :computer: Temas abordados durante o curso foram :rocket:
 - [Seção 01 - Introduction]()
